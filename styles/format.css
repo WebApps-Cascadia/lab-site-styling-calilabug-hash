@@ -1,5 +1,7 @@
 /* CSS Formatting Document */
-
+  main h1 {
+    font-size: 1.6em;
+  }
 /* Overall Page Formatting */
 body {
 	color: #000000;
