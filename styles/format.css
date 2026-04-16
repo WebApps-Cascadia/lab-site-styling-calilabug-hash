@@ -7,6 +7,9 @@ body {
 	color: #000000;
 	background-color: #FFFFFF;
 	font: 12pt Georgia, "Times New Roman", Times, serif;
+    background-image: url(../_images/prz_watermark.gif);
+    background-position: center right;
+    background-repeat: no-repeat;
 }
 p{
     padding:.5em;
