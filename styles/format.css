@@ -38,7 +38,7 @@ header {
 	padding-top: 10px;
 	margin-left: 10px;
     margin-top: 10px;
-	background-image: url(../_images/przlogo.gif);
+	background-image: url(../images/przlogo.gif);
     background-position: top left;
     background-repeat: no-repeat;
 }
@@ -72,7 +72,7 @@ nav li:last-child {
 /* Main Section Formatting */
 main {
     padding: 20px;
-    background-image: url(../_images/prz_watermark.gif);
+    background-image: url(../images/prz_watermark.gif);
     background-position: center right;
     background-repeat: no-repeat;
     background-attachment: fixed;
