@@ -72,9 +72,10 @@ nav li:last-child {
 /* Main Section Formatting */
 main {
     padding: 20px;
-    background-image: url(../images/prz_watermark.gif);
+    background-image: url(../_images/prz_watermark.gif);
     background-position: center right;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 main h1, main h2, main h3 {
     font-family: "Gill Sans", Arial, Helvetica, sans-serif;
